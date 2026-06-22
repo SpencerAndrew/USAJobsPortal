@@ -1,0 +1,8 @@
+{
+  "name": "USAJobs Portal",
+  "description": "A comprehensive national job portal for both federal government and private sector employment opportunities, featuring advanced search, application tracking, veteran preferences, and tax document resources.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
